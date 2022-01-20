@@ -6,10 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🌱 I'm a final year engineering student.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 
 - ⚡ I’m a passionate **Competitive Programmer.**
 
