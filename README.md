@@ -72,6 +72,8 @@
 <br/>
 
 ## Connect with me:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="manishambarwar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/manishambarwar?trk=profile-badge">Manish Ambarwar</a></div>
+              
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/manish-ambarwar-134a801b0"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
