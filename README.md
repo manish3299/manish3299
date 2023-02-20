@@ -85,4 +85,3 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manish3299">
 </a>
-<a href="https://github.com/manish3299?tab=followers"><img src="https://img.shields.io/github/followers/rupal121?label=Followers&style=social" alt="GitHub Badge"></a>
