@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm a final year engineering student.
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - ⚡ I’m a passionate **Competitive Programmer.**
