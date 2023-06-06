@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- ⚡ I’m a passionate **Competitive Programmer.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](manish3299.github.io)**
