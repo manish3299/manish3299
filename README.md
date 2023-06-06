@@ -1,6 +1,6 @@
 
-![150354481-99052d4f-e34a-4272-b77c-b7523003bea0](https://github.com/manish3299/manish3299/assets/97036992/f8988a0a-7d5a-4a67-af42-e6add2114a28)
-
+![150354481-99052d4f-e34a-4272-b77c-b7523003bea0]()
+<img src="https://github.com/manish3299/manish3299/assets/97036992/f8988a0a-7d5a-4a67-af42-e6add2114a28.gif" width="100%" height="400" alt="giphy"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
