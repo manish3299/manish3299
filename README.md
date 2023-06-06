@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 ![150354481-99052d4f-e34a-4272-b77c-b7523003bea0](https://github.com/manish3299/manish3299/assets/97036992/f8988a0a-7d5a-4a67-af42-e6add2114a28)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
